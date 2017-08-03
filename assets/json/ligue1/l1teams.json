@@ -1,0 +1,205 @@
+{
+  "name": "Ligue 1 - 2017/18",
+  "clubs": [
+    {
+      "key": "amiens",
+      "name": "Amiens Sporting Club Football",
+      "code": "AMS",
+      "birth": "1901",
+      "stadium": "La Licorne",
+      "places": "12097",
+      "website": "www.amiensfootball.com",
+      "coach": "Christophe PELISSIER"
+    },
+    {
+      "key": "angers",
+      "name": "Angers Sporting Club de l'Ouest",
+      "code": "SCO",
+      "birth": "1919",
+      "stadium": "Raymond-Kopa",
+      "places": "170161",
+      "website": "www.angers-sco.fr",
+      "coach": "Stéphane MOULIN"
+    },
+    {
+      "key": "bordeaux",
+      "name": "Football Club des Girondins de Bordeaux",
+      "code": "FCGB",
+      "birth": "1881",
+      "stadium": "Raymond-Kopa",
+      "places": "42150",
+      "website": "www.girondins.com",
+      "coach": "Jocelyn GOURVENNEC"
+    },
+    {
+      "key": "caen",
+      "name": "Stade Malherbe de Caen",
+      "code": "CAEN",
+      "birth": "1913",
+      "stadium": "Michel-d'Ornano",
+      "places": "21250",
+      "website": "www.smcaen.fr",
+      "coach": "Patrice GARANDE"
+    },
+    {
+      "key": "dijon",
+      "name": "Dijon Football Côte-d'Or",
+      "code": "DFCO",
+      "birth": "1998",
+      "stadium": "Gaston-Gérard",
+      "places": "22000",
+      "website": "www.dfco.fr",
+      "coach": "Olivier DALL'OGLIO"
+    },
+    {
+      "key": "guingamp",
+      "name": "En Avant de Guingamp",
+      "code": "EAG",
+      "birth": "1912",
+      "stadium": "Roudourou",
+      "places": "18250",
+      "website": "www.eaguingamp.com",
+      "coach": "Antoine KOMBOUARE"
+    },
+    {
+      "key": "lille",
+      "name": "LOSC Lille",
+      "code": "LOSC",
+      "birth": "1944",
+      "stadium": "Pierre-Mauroy",
+      "places": "50083",
+      "website": "www.losc.fr",
+      "coach": "Marcelo BIELSA"
+    },
+    {
+      "key": "lyon",
+      "name": "Olympique Lyonnais",
+      "code": "OL",
+      "birth": "1944",
+      "stadium": "Groupama Stadium",
+      "places": "58000",
+      "website": "www.olweb.fr",
+      "coach": "Bruno Genesion"
+    },
+    {
+      "key": "marseille",
+      "name": "Olympique de Marseille",
+      "code": "OM",
+      "birth": "1899",
+      "stadium": "Orange Vélodrome",
+      "places": "67000",
+      "website": "www.om.net",
+      "coach": "Rudy Garcia"
+    },
+    {
+      "key": "metz",
+      "name": "Football Club de Metz",
+      "code": "FCM",
+      "birth": "1932",
+      "stadium": "Saint-Symphorien",
+      "places": "25636",
+      "website": "www.fcmetz.com",
+      "coach": "Philippe HINSCHBERGER"
+    },
+    {
+      "key": "monaco",
+      "name": "Association sportive de Monaco FC",
+      "code": "ASM",
+      "birth": "1919",
+      "stadium": "Louis II",
+      "places": "18523",
+      "website": "www.asmonaco.com/fr",
+      "coach": "Leonardo JARDIM"
+    },
+    {
+      "key": "montpellier",
+      "name": "Montpellier-Herault Sport Club",
+      "code": "MHSC",
+      "birth": "1974",
+      "stadium": "La Mosson",
+      "places": "32900",
+      "website": "www.mhscfoot.com",
+      "coach": "Michel DER ZAKARIAN"
+    },
+    {
+      "key": "nantes",
+      "name": "Football Club de Nantes",
+      "code": "FCN",
+      "birth": "1943",
+      "stadium": "La Beaujoire",
+      "places": "37473",
+      "website": "www.fcnantes.com",
+      "coach": "Claudio RANIERI"
+    },
+    {
+      "key": "nice",
+      "name": "Olympique Gymnaste Club Nice Côte d'Azur",
+      "code": "OGC",
+      "birth": "1904",
+      "stadium": "Allianz Riviera",
+      "places": "35624",
+      "website": "www.ogcnice.com",
+      "coach": "Lucien FAVRE"
+    },
+    {
+      "key": "paris sg",
+      "name": "Paris-Saint-Germain Football Club",
+      "code": "PSG",
+      "birth": "1970",
+      "stadium": "Parc des Princes",
+      "places": "47428",
+      "website": "www.psg.fr",
+      "coach": "Unai EMERY"
+    },
+    {
+      "key": "rennes",
+      "name": "Stade Rennais Football Club",
+      "code": "SRFC",
+      "birth": "1901",
+      "stadium": "Roazhon Park",
+      "places": "29778",
+      "website": "www.staderennais.com",
+      "coach": "Christian GOURCUFF"
+    },
+    {
+      "key": "saint-etienne",
+      "name": "Association Sportive de St-Etienne",
+      "code": "ASSE",
+      "birth": "1919",
+      "stadium": "Geoffroy-Guichard",
+      "places": "41138",
+      "website": "www.asse.fr",
+      "coach": "Oscar GARCIA"
+    },
+    {
+      "key": "strasbourg",
+      "name": "Racing Club de Strasbourg Alsace",
+      "code": "RCS",
+      "birth": "1906",
+      "stadium": "La Meinau",
+      "places": "23000",
+      "website": "www.rcstrasbourgalsace.fr",
+      "coach": "Thierry LAUREY"
+    },
+    {
+      "key": "toulouse",
+      "name": "Toulouse Football Club",
+      "code": "TFC",
+      "birth": "1937",
+      "stadium": "Stadium Municipal",
+      "places": "33300",
+      "website": "www.tfc.info",
+      "coach": "Pascal Dupraz"
+    },
+    {
+      "key": "troyes",
+      "name": "Espérance Sportive Troyes Aube Champagne",
+      "code": "ESTAC",
+      "birth": "1986",
+      "stadium": "Stade de l'Aube",
+      "places": "20420",
+      "website": "www.estac.fr",
+      "coach": "Jean-Louis GARCIA"
+    }
+  ]
+}
